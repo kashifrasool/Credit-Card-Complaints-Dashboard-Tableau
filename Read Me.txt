@@ -1,7 +1,14 @@
 Credit Card Complaints Dashboard Tableau
 
 
-Link: https://public.tableau.com/app/profile/kashif.rasool/viz/CreditCardComplaintsDashboard_16920357321850/Dashboard1?publish=yes
+Tableau Visualization Link: https://public.tableau.com/app/profile/kashif.rasool/viz/CreditCardComplaintsDashboard_16920357321850/Dashboard1?publish=yes
+
+
+Github Profile:
+
+https://github.com/kashifrasool/Credit-Card-Complaints-Dashboard-Tableau
+
 
 Kashif Rasool
+Data Analyst
 
